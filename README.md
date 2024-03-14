@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m @CODEsOwnDesign</h1>
 
-<h3 align="center">C ~ JAVA Coder | AI/ML Explorer | Linux Geek | Opensource Enthusiast ☕💻</h3>
+<h3 align="center">{ C, JAVA, ... } Coder | AI/ML Explorer | Opensource Enthusiast ☕💻</h3>
 
 >1.  👀 I’m interested in ~ _**AI/ML**_
 >2.  🌱 I’m currently learning ~ _**Java for AI/ML, exploring libraries like Weka, Deeplearning4j, and Apache Mahout, deep learning concepts, and data visualization techniques.**_
